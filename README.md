@@ -8,6 +8,7 @@ Completed
 - Karatsuba Multiplication
 - Basic Sorting
 - Rabin-Miller primality test
+- Sieve of Eratosthenes for prime numbers
 - Binary Search
 - Counting Inversions in an array
 - Selecting ith order statistic in an array
@@ -48,3 +49,4 @@ Tests
     python -m tests.graph_algorithms_test
     python -m tests.heap_test
     python -m tests.unionfind_test
+    python -m tests.singly_linked_list_test
